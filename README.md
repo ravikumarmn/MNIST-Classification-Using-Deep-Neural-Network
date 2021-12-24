@@ -14,13 +14,13 @@ After the requirement are satisfied, Run the cell in digit_classifier.ipynb one 
 
 Steps Involved : 
 
-Step -1 : Preprare Data
-Step - 2 :  Initialise Neural Network
-Step - 3 : Activation Function
-Step - 4 : Forward Propagation
-Step - 5 : Back Propagation
-Step - 6 : Training function
-Step - 7 : Plotting
-Step - 8 : Result
+* Step -1 : Preprare Data
+* Step - 2 :  Initialise Neural Network
+* Step - 3 : Activation Function
+* Step - 4 : Forward Propagation
+* Step - 5 : Back Propagation
+* Step - 6 : Training function
+* Step - 7 : Plotting
+* Step - 8 : Result
 
 Reference :  1. https://medium.com/analytics-vidhya/neural-network-mnist-classifier-from-scratch-using-numpy-library-94bbcfed7eae
